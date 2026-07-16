@@ -1,0 +1,6 @@
+{
+  "name": "Domino Baiano",
+  "description": "A 4-player domino game implementing the specific Bahia ruleset including Buxada, Lasquinei, and complex scoring hierarchies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
