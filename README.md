@@ -1,5 +1,3 @@
-domino-baiano
-
 ```markdown
 # Domino Baiano
 
