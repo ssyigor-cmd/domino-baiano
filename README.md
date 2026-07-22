@@ -1,7 +1,4 @@
-
----
-
-## 3. domino-baiano
+domino-baiano
 
 ```markdown
 # Domino Baiano
