@@ -1,18 +1,26 @@
-<div align="center">
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 3. domino-baiano
 
-View your app in AI Studio: https://ai.studio/apps/d0f4b01e-50a6-4805-b2ba-5978b7972550
+```markdown
+# Domino Baiano
 
-## Run Locally
+Jogo de dominó com regras personalizadas (estilo "baiano") – projeto em TypeScript para estudo de lógica de jogos.
 
-**Prerequisites:**  Node.js
+## 📌 Status
+🧪 Em estudo – versão inicial experimental, desenvolvida com auxílio de IA (Google AI Studio).
 
+## 🎯 Objetivo
+Implementar um jogo de dominó funcional com:
+- Regras tradicionais adaptadas (ex: "bate", "passa", contagem de pontos)
+- Interface simples (terminal ou web futuramente)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tecnologias
+- TypeScript
+- (futuramente) HTML/CSS para interface
+
+## ▶️ Como executar
+```bash
+npm install
+npm start
