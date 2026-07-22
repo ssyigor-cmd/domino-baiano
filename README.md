@@ -4,7 +4,7 @@
 Jogo de dominó com regras personalizadas (estilo "baiano") – projeto em TypeScript para estudo de lógica de jogos.
 
 ## 📌 Status
-🧪 Em estudo – versão inicial experimental, desenvolvida com auxílio de IA (Google AI Studio).
+✅ Funcional – o jogo roda e permite partidas básicas, mas ainda está em aperfeiçoamento (regras adicionais, interface).
 
 ## 🎯 Objetivo
 Implementar um jogo de dominó funcional com:
